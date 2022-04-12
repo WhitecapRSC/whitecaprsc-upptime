@@ -20,7 +20,7 @@ sites:
   - name: Squarespace Status
     url: https://status.squarespace.com/
   - name: TellaHealth
-    url: https://www.tellahealth.ca
+    url: https://tellahealth.ca
   - name: Sling
     url: https://getsling.com
 
