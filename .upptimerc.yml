@@ -36,7 +36,7 @@ status-website:
   introMessage: WhitecapRSC Website Uptime Dashboard. This will give us a quick heads up if any pages are down.
   navbar:
     - title: Status
-      href: /
+      href: /whitecaprsc-upptime
     - title: GitHub
       href: https://github.com/WhitecapRSC/whitecaprsc-upptime
 
