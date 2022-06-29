@@ -1,7 +1,7 @@
 url: https://tellahealth.ca
-status: up
-code: 200
-responseTime: 884
-lastUpdated: 2022-06-29T06:41:25.813Z
+status: down
+code: 403
+responseTime: 86
+lastUpdated: 2022-06-29T06:54:18.824Z
 startTime: Tue Apr 12 2022 00:44:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
