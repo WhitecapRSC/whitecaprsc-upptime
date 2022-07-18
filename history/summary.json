@@ -103,19 +103,19 @@
     "url": "https://status.notion.so/",
     "icon": "https://favicons.githubusercontent.com/status.notion.so",
     "slug": "notion-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 265,
-    "timeWeek": 361,
-    "timeMonth": 447,
-    "timeYear": 361,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 363,
+    "timeDay": 423,
+    "timeWeek": 389,
+    "timeMonth": 451,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2022-07-18": 1
+      "2022-07-18": 8
     }
   },
   {
@@ -123,19 +123,19 @@
     "url": "https://status.acuityscheduling.com/",
     "icon": "https://favicons.githubusercontent.com/status.acuityscheduling.com",
     "slug": "acuity-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 357,
-    "timeWeek": 391,
-    "timeMonth": 444,
-    "timeYear": 393,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 394,
+    "timeDay": 437,
+    "timeWeek": 407,
+    "timeMonth": 446,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2022-07-18": 1
+      "2022-07-18": 7
     }
   },
   {
@@ -143,19 +143,19 @@
     "url": "https://status.squarespace.com/",
     "icon": "https://favicons.githubusercontent.com/status.squarespace.com",
     "slug": "squarespace-status",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 260,
-    "timeWeek": 476,
-    "timeMonth": 498,
-    "timeYear": 393,
+    "time": 394,
+    "timeDay": 362,
+    "timeWeek": 475,
+    "timeMonth": 497,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2022-07-18": 0
+      "2022-07-18": 7
     }
   },
   {
