@@ -103,10 +103,10 @@
     "url": "https://status.notion.so/",
     "icon": "https://favicons.githubusercontent.com/status.notion.so",
     "slug": "notion-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 361,
@@ -114,17 +114,19 @@
     "timeWeek": 361,
     "timeMonth": 447,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 1
+    }
   },
   {
     "name": "Acuity Status",
     "url": "https://status.acuityscheduling.com/",
     "icon": "https://favicons.githubusercontent.com/status.acuityscheduling.com",
     "slug": "acuity-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
@@ -132,16 +134,18 @@
     "timeWeek": 391,
     "timeMonth": 444,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 1
+    }
   },
   {
     "name": "Squarespace Status",
     "url": "https://status.squarespace.com/",
     "icon": "https://favicons.githubusercontent.com/status.squarespace.com",
     "slug": "squarespace-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,7 +154,9 @@
     "timeWeek": 476,
     "timeMonth": 498,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 0
+    }
   },
   {
     "name": "TellaHealth",
